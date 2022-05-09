@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mirko Posavec
 - 👀 I’m interested in web programming.
-- 🌱 I’m currently learning JAVA, PYTHON...
+- 🌱 I’m currently learning...
 
 - 📫 How to reach me: mirkoposavec03@gmail.com
 
