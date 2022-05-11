@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mirko Posavec
-- 👀 I’m interested in software testing, data analysis and data migration analysis.
+- 👋 Hi, I’m Mirko Posavec.
+- 👀 I’m interested in web development, software testing, data analytics.
 - 🌱 I’m currently learning...
 
 - 📫 How to reach me: mirkoposavec03@gmail.com
